@@ -1,0 +1,15 @@
+C:\Varsity College\Year 3\Semester 1\Programming 3A\Programs\DesignPatterns\bin\Debug\net6.0\DesignPatterns.exe
+C:\Varsity College\Year 3\Semester 1\Programming 3A\Programs\DesignPatterns\bin\Debug\net6.0\DesignPatterns.deps.json
+C:\Varsity College\Year 3\Semester 1\Programming 3A\Programs\DesignPatterns\bin\Debug\net6.0\DesignPatterns.runtimeconfig.json
+C:\Varsity College\Year 3\Semester 1\Programming 3A\Programs\DesignPatterns\bin\Debug\net6.0\DesignPatterns.dll
+C:\Varsity College\Year 3\Semester 1\Programming 3A\Programs\DesignPatterns\bin\Debug\net6.0\DesignPatterns.pdb
+C:\Varsity College\Year 3\Semester 1\Programming 3A\Programs\DesignPatterns\obj\Debug\net6.0\DesignPatterns.csproj.AssemblyReference.cache
+C:\Varsity College\Year 3\Semester 1\Programming 3A\Programs\DesignPatterns\obj\Debug\net6.0\DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Varsity College\Year 3\Semester 1\Programming 3A\Programs\DesignPatterns\obj\Debug\net6.0\DesignPatterns.AssemblyInfoInputs.cache
+C:\Varsity College\Year 3\Semester 1\Programming 3A\Programs\DesignPatterns\obj\Debug\net6.0\DesignPatterns.AssemblyInfo.cs
+C:\Varsity College\Year 3\Semester 1\Programming 3A\Programs\DesignPatterns\obj\Debug\net6.0\DesignPatterns.csproj.CoreCompileInputs.cache
+C:\Varsity College\Year 3\Semester 1\Programming 3A\Programs\DesignPatterns\obj\Debug\net6.0\DesignPatterns.dll
+C:\Varsity College\Year 3\Semester 1\Programming 3A\Programs\DesignPatterns\obj\Debug\net6.0\refint\DesignPatterns.dll
+C:\Varsity College\Year 3\Semester 1\Programming 3A\Programs\DesignPatterns\obj\Debug\net6.0\DesignPatterns.pdb
+C:\Varsity College\Year 3\Semester 1\Programming 3A\Programs\DesignPatterns\obj\Debug\net6.0\DesignPatterns.genruntimeconfig.cache
+C:\Varsity College\Year 3\Semester 1\Programming 3A\Programs\DesignPatterns\obj\Debug\net6.0\ref\DesignPatterns.dll
